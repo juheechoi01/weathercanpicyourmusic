@@ -81,9 +81,9 @@ def show_output(input):
 uploaded_file = st.file_uploader("📸 이미지를 업로드해주시길 바랍니다!", type=['png', 'jpg', 'jpeg'])
 
 # Load the trained model
-model = tf.keras.models.load_model('./final model/xception_model_1.h5')
+model = tf.keras.models.load_model('./fina_model/xception_model_1.h5')
 
-df = pd.read_csv('./csv/real_final.csv')
+df = pd.read_csv('./real_final.csv')
 
 # If an image has been uploaded, process and display the results
 if uploaded_file is not None:
