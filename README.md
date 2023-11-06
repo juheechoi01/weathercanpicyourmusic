@@ -22,7 +22,7 @@ Welcome to WeatherCanPicYourMusic, where the skies set your playlist! This uniqu
 
 ## Platform Accessibility
 
-* **Streamlit Integration**: Embedded our system into Streamlit, allowing for easy access and user interaction. Simply download our model (CNN_baseline.h5) and the Streamlit page files (Home.py, 'pages' folder) to get started.
+* **Streamlit Integration**: Embedded our system into Streamlit, allowing for easy access and user interaction. Simply download our model ('xception_model_1.h5' in the 'final_model' folder) and the Streamlit page files (Home.py, 'pages' folder) to get started.
 * **Open for All**: Anyone can run the website on their local machine and enjoy personalized music recommendations 😊
 
 ---
