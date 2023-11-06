@@ -26,4 +26,5 @@ Welcome to WeatherCanPicYourMusic, where the skies set your playlist! This uniqu
 * **Open for All**: Anyone can run the website on their local machine and enjoy personalized music recommendations.
 
 ---
-WeatherCanPicYourMusic bridges the gap between your sensory experience and your music. Try it out and let the weather tune your day! ⛅️📸🎧
+**WeatherCanPicYourMusic bridges the gap between your sensory experience and your music.**
+**Try it out and let the weather tune your day! ⛅️📸🎧**
