@@ -20,5 +20,5 @@ Below is the intricate process of the recommendation system.
 - In order to see if the tags were really relevant to the weather, we used a pre-trained 'Word2Vec' to check if the tags and weather were really correlated.
 
 In conclusion, in order to properly recommend songs that go well with the weather, the following three weights were given differently: Number of likes, tag and weather similarity, and how many times a particular song was mentioned with the specific weather tag.
-* Additionally, our platform was implemented on 'Streamlit', so anyone who downlaods the final model and the pages corresponding to the 'Streamlit' site is able to run the website and try it out! 😊
+* Additionally, our platform was implemented on 'Streamlit', so anyone who downlaods the final model (CNN_baseline.h5) and the pages corresponding to the 'Streamlit' site is able to run the website and try it out! 😊
 * Hope the WeatherCanPicYourMusic! ⛅️📸🎧
