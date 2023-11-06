@@ -4,7 +4,7 @@ Welcome to WeatherCanPicYourMusic, where the skies set your playlist! This uniqu
 
 ## Weather Image Classification
 
-* **Image Understanding**: Utilized a cutting-edge image classification model, 'Xception', pre-trained to distinguish diverse weather patterns: sunny☀️, rainy☔️, foggy🌫️, snowy🌨️, and sunset/sunrise 🌅.
+* **Image Understanding**: After training various cutting-edge image classification Convolutional Neural Network (CNN) models, such as VGG, ResNet, and Xception, we utilized a pre-trained 'Xception', suitable to  distinguish diverse weather patterns: sunny☀️, rainy☔️, foggy🌫️, snowy🌨️, and sunset/sunrise 🌅.
 * **Data Sources**: Amassed an extensive dataset from Kaggle and Google Images to fine-tune our model for accurate recognition.
 
 ## Music Recommendation
