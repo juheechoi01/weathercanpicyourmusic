@@ -9,8 +9,8 @@ Welcome to WeatherCanPicYourMusic, where the skies set your playlist! This uniqu
 
 ## Music Recommendation
 
-* **Data Scraping Tools**: Employed Selenium and Beautiful Soup to curate a music database rich with details like song titles, artists, albums, tags, and popularity metrics.
-* **Cultural Touch**: Tapped into South Korea's music platforms, such as Melon and Genie, extracting songs from weather-themed playlists (e.g., 화창한 날 for sunny days, 비 오는 날 for rainy days).
+* **Data Scraping Tools**: Employed Selenium and Beautiful Soup to curate a music database rich with details like song titles, artists, albums, tags, and popularity metrics from various playlists. Tags are basically keywords that the owner of the playlist puts up when creating the playlist, which means it describes the mood or the tone of the playlist, which makes it easier for other users to choose and understand their playlist.
+* **Cultural Touch**: Tapped into South Korea's music platforms, such as Melon and Genie, extracting songs from weather-themed playlists by using speciifc keywords relevant to the weather (e.g., 화창한 날 for sunny days, 비 오는 날 for rainy days).
 
 ## Music - Weather Similarity
 
@@ -23,7 +23,7 @@ Welcome to WeatherCanPicYourMusic, where the skies set your playlist! This uniqu
 ## Platform Accessibility
 
 * **Streamlit Integration**: Embedded our system into Streamlit, allowing for easy access and user interaction. Simply download our model (CNN_baseline.h5) and the Streamlit page files (Home.py, 'pages' folder) to get started.
-* **Open for All**: Anyone can run the website on their local machine and enjoy personalized music recommendations.
+* **Open for All**: Anyone can run the website on their local machine and enjoy personalized music recommendations 😊
 
 ---
 **WeatherCanPicYourMusic bridges the gap between your sensory experience and your music.**
