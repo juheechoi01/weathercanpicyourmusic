@@ -29,3 +29,8 @@ Welcome to WeatherCanPicYourMusic, where the skies set your playlist! This uniqu
 **WeatherCanPicYourMusic bridges the gap between your sensory experience and your music.**
 
 **Try it out and let the weather tune your day! ⛅️📸🎧**
+
+
+## Presentation link
+https://www.canva.com/design/DAFsL1mMeeI/R5iKA-8JNy6Chf_9iN9Y1w/edit?utm_content=DAFsL1mMeeI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
